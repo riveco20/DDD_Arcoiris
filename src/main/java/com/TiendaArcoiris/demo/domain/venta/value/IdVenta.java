@@ -1,4 +1,6 @@
 package com.TiendaArcoiris.demo.domain.venta.value;
 
-public class IdVenta {
+import co.com.sofka.domain.generic.Identity;
+
+public class IdVenta extends Identity {
 }

@@ -1,4 +1,6 @@
 package com.TiendaArcoiris.demo.domain.factura.value;
 
-public class IdFactura {
+import co.com.sofka.domain.generic.Identity;
+
+public class IdFactura extends Identity {
 }
